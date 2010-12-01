@@ -6,10 +6,6 @@
 
 # Sébastien Douche
 
-!SLIDE
-
-# Français
-
 !SLIDE center
 
 ![japon](japon.jpg)
@@ -40,7 +36,7 @@
 
 !SLIDE
 
-# Administrateur système, réseau et sécurité
+# Admin (système, réseau)
 
 !SLIDE
 
@@ -83,21 +79,12 @@
 
 !SLIDE center
 
-![Photo](photo2.jpg)
-
-!SLIDE center
-
-![MotoGP](motogp2.jpg)
-
-!SLIDE center
-
 ![Beer](beer2.jpg)
 
 !SLIDE
 
 # Projet
 ## Lean+Agile+...
-
 
 !SLIDE
 

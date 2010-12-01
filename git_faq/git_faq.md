@@ -6,7 +6,7 @@
 
 # La notion de référenciel est **sociale**, pas technique
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
 ## Algorithme **2 way merge**
 
@@ -14,7 +14,7 @@
 * A la base de la commande diff / patch
 * Aucune évolution depuis 1985
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
 ## Algorithme **3 way merge**
 

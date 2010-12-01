@@ -1,6 +1,6 @@
 !SLIDE
 
-# Atelier Git #1
+# Atelier Git #2
 
 !SLIDE center
 

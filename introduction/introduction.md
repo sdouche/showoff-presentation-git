@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Atelier #1
+# Atelier #2
 
 !SLIDE
 
@@ -12,16 +12,11 @@
 # 3 phases :
 ## 1. Rappel DVCS
 ## 2. Présentation de Git
-## 3. Q/R + installation
-
-!SLIDE center
-
-# Posez des <span class="red">questions</span> !
-![boring](boring.jpg)
+## 3. Q/R
 
 !SLIDE
 
-# <span class="question">Sondage (1)</class>
+# <span class="question">Sondage</class>
 
 ## Qui utilise... 
 
@@ -35,14 +30,6 @@
 
 !SLIDE
 
-# Perforce ?
-
-!SLIDE
-
-# ClearCase ?
-
-!SLIDE
-
 # la méthode copie ?
 
 !SLIDE
@@ -51,31 +38,13 @@
 
 !SLIDE
 
-# <span class="question">Sondage (2)</class>
-
-## Qui est...
-
-!SLIDE
-
-# développeur ?
-
-!SLIDE
-
-# chef de projet ?
-
-!SLIDE
-
-# responsable technique ?
-
-!SLIDE
-
-# <span class="question">Sondage (3)</class>
+# <span class="question">Sondage</class>
 
 ## Vous êtes venu...
 
 !SLIDE
 
-# pour utiliser Git au travail ?
+# pour utiliser Git ?
 
 !SLIDE
 

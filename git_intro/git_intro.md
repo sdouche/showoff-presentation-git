@@ -4,11 +4,6 @@
 
 !SLIDE
 
-# <span class="question">Sondage (4)</span>
-## Qui a essayez git ?
-
-!SLIDE
-
 ## Avant de démarrer...
 
 !SLIDE center
@@ -24,15 +19,23 @@
 ### 1 fonctionnalité = 1 commande git
 ### 145 (sous) commandes
 
+!SLIDE bullets
+
+# Anecdotes (1)
+## Auto hébergement
+* 5j pour que git
+* 1 an pour SVN
+
+!SLIDE bullets
+
+# Anecdotes (2)
+## Version 1.0
+* <1 an pour git
+* 3.5 ans pour SVN
+
 !SLIDE
 
-# Anecdotes
-### Auto hébergement : 5j pour que git, 1 an pour SVN
-### Version 1.0 :  <1 an pour git, 3.5 ans pour SVN
-
-!SLIDE
-
-# Utilisé pour du code, des données, sites web, des fichiers de configuration, backup...
+## Utilisé pour du code, des données, sites web, des fichiers de configuration, backup...
 
 !SLIDE
 
@@ -68,5 +71,5 @@
 
 ## Git est trés simple
 
-        (e83c51) ~/src/git $ grep GIT README
-        GIT - the stupid content tracker
+    $ grep GIT README
+    GIT - the stupid content tracker

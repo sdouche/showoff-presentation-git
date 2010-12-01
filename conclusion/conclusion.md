@@ -1,12 +1,6 @@
 !SLIDE
 
-# <div class="question">Sondage (5)</div>
-## Un ROTI !
-### (Return of Time Invested)
-
-!SLIDE
-
-# <div class="question">Sondage (6)</div>
+# <div class="question">Sondage</div>
 ## Qui souhaite continuer les ateliers ?
 
 !SLIDE bullets
@@ -18,7 +12,7 @@
 
 !SLIDE full-page
 
-![cat](svn-cat.jpg)
+![cat](svn-cat2.jpg)
 
 !SLIDE
 

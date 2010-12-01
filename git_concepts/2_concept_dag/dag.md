@@ -1,11 +1,11 @@
 !SLIDE
 
 # Concept 2
-## La relation entre commit est un graphe acyclique (DAG)
+## La relation entre commits est un graphe acyclique (DAG)
 
 !SLIDE
 
-# Graphe acyclique veut dire <span class="important">sans</span> boucle
+# Graphe acyclique veut dire graphe <span class="important">sans</span> boucle
 
 !SLIDE
 
@@ -16,16 +16,12 @@
 
 ![graphe](graphe.png)
 
-!SLIDE center
-
-![object](git-172.png)
-
 !SLIDE bullets incremental
 
-## Toutes les opérations d&#39;ajout de contenu consiste à :
+## Toutes les opérations d&#39;ajout de contenu consistent à :
 
-* Etre dans un endroit du graphe (X)
-* Vouloir du contenu qui est dans le graphe (Y)
+* Se placer sur le graphe (position X)
+* Vouloir du contenu  (postion Y)
 * Appliquer une opération (X & Y)
 
 !SLIDE
@@ -36,7 +32,7 @@
 !SLIDE
 
 # Pour choisir l&#39;opération :
-## quel graphe je souhaite avoir aprés ?
+## quel graphe <span class="important">je veux</span> ?
 
 !SLIDE 
 
@@ -44,7 +40,7 @@
 
 !SLIDE
 
-# ...révisionniste
+# ...révisionniste !
 
 !SLIDE
 
@@ -77,8 +73,24 @@
 
 !SLIDE
 
+# Explication par l&#39;exemple
+
+!SLIDE
+
 # 1er exemple
 ##  Commit : continuer le graphe
+
+!SLIDE
+
+![commit](follow1.png)
+
+!SLIDE
+
+![commit](follow2.png)
+
+!SLIDE
+
+![commit](follow3.png)
 
 !SLIDE
 
@@ -154,20 +166,14 @@
 
 !SLIDE commandline
 
-## reflog contient toutes les opérations locales
+# reflog contient les opérations locales
 
-c9111bb HEAD@{5}: commit (amend): dev: new: Use of Fabulous library to display colored messages.
-
-c520af3 HEAD@{6}: commit: dev: new: Use of Fabulous library to display colored messages.
-
-2378c74 HEAD@{7}: commit: new: pkg: print the list of tagged components.
-
-368641c HEAD@{8}: commit: fix: dev: some very small fixes. It&#39; now working.
-
-58fa497 HEAD@{9}: commit (amend): new: dev: initial version of the release manager.
-
-b3f0ae7 HEAD@{10}: commit (initial): new: dev: initial version of the release manager.
-
+ 	$ git reflog
+	c9111bb HEAD@{5}: commit (amend): dev: new: Use of Fabulous library to display colored messages.
+	c520af3 HEAD@{6}: commit: dev: new: Use of Fabulous library to display colored messages.
+	2378c74 HEAD@{7}: commit: new: pkg: print the list of tagged components.
+	368641c HEAD@{8}: commit: fix: dev: some very small fixes. It&#39; now working.
+	58fa497 HEAD@{9}: commit (amend): new: dev: initial version of the release manager.
 
 !SLIDE bullets
 

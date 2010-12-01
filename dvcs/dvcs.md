@@ -79,7 +79,7 @@
 !SLIDE 
 
 # Workflow personnel
-## La méthode de travail quand le développeur travaille seul ##
+## La méthode de travail du développeur
 
 !SLIDE bullets
 
@@ -93,24 +93,23 @@
 # Choix dans la méthode
 
 * Par patch
-* 1 dépot / branche par fonctionnalité
-* 1 dépot / branche d&#39;intégration
+* 1 dépôt / branche par fonctionnalité
+* 1 dépôt / branche d&#39;intégration
 
 !SLIDE
 
 # Workflow inter-personnel
-## La méthode de travail quand les développeurs collaborent
+## La méthode de travail entre développeurs
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
 # Exemples :
 
 * Sur le dépôt d&#39;un développeur
 * Sur un dépôt central
 * Dépôt temporaire (sandbox)
-* Echange de patch
+* Echange de patch / bundle
 * Cherrypicking
-* Echange de Bundle
 
 !SLIDE bullets incremental
 # Exemples de workflows mélangés
@@ -132,7 +131,7 @@
 
 !SLIDE 
 
-# Des développeurs focalisés sur son code
+# Développeurs focalisés sur leur code
 
 !SLIDE 
 

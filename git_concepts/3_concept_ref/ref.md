@@ -10,12 +10,12 @@
 
 !SLIDE
 
-# Ou même ?
+# Ou ?
 ### e83c516
 
 !SLIDE
 
-# Quel est le SHA1 ?
+# Quel est le SHA1 ? :)
 
 !SLIDE commandline
 
@@ -31,11 +31,11 @@
 	$ cat .git/refs/master
 	e83c5163316f89bfbde7d9ab23ca2e25604af290
 
-!SLIDE
+!SLIDE bullets
 
 # 2 types de références :
-## déplacée par Git
-## déplacée par l&#39;utilisateur
+* déplacée par Git
+* déplacée par l&#39;utilisateur
 
 !SLIDE center
 
@@ -55,7 +55,7 @@
 !SLIDE
 
 ## Un nom de branche est une référence
-### (placé par l&#39;utilisateur et déplacée par git)
+### (placée par l&#39;utilisateur et déplacée par git)
 
 !SLIDE commandline
 

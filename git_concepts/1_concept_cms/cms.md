@@ -1,6 +1,6 @@
 !SLIDE
 
-# Concept 1 #
+# Concept 1
 ## Git est un gestionnaire de contenu 
 
 !SLIDE
@@ -9,9 +9,8 @@
 
 !SLIDE
 
-## Une définition possible de Git :
+# Une définition possible :
 ## "Systême de fichier orienté contenu"
-## "Ensemble de snapshot de contenu"
 
 !SLIDE
 
@@ -139,7 +138,7 @@
 
 !SLIDE center
 
-## dans une base clé / valeur ##
+# dans une base clé / valeur ##
 
 !SLIDE
 
@@ -195,13 +194,13 @@
 
 !SLIDE
 
-## Identification par clé SHA1 :
+# Identification par clé SHA1
 ## concept simple et efficace
 
 !SLIDE
 
 ## La clé est générée par une fonction de «hashage cryptographique» (SHA1) 
-### SHA1(content) => signature sur 160 bits
+### SHA1(contenu) => signature sur 160 bits
 
 
 !SLIDE bullets incremental
@@ -218,114 +217,6 @@
 
 !SLIDE center
 
-![object](git-145.png)
-
-!SLIDE center
-
-![object](git-146.png)
-
-!SLIDE center
-
-![object](git-147.png)
-
-!SLIDE center
-
-![object](git-148.png)
-
-!SLIDE center
-
-![object](git-149.png)
-
-!SLIDE center
-
-![object](git-150.png)
-
-!SLIDE center
-
-![object](git-151.png)
-
-!SLIDE center
-
-![object](git-152.png)
-
-!SLIDE center
-
-![object](git-153.png)
-
-!SLIDE center
-
-![object](git-154.png)
-
-!SLIDE center
-
-![object](git-155.png)
-
-!SLIDE center
-
-![object](git-156.png)
-
-!SLIDE center
-
-![object](git-157.png)
-
-!SLIDE center
-
-![object](git-158.png)
-
-!SLIDE center
-
-![object](git-159.png)
-
-!SLIDE center
-
-![object](git-160.png)
-
-!SLIDE center
-
-![object](git-161.png)
-
-!SLIDE center
-
-![object](git-162.png)
-
-!SLIDE center
-
-![object](git-163.png)
-
-!SLIDE center
-
-![object](git-164.png)
-
-!SLIDE center
-
-![object](git-165.png)
-
-!SLIDE center
-
-![object](git-166.png)
-
-!SLIDE center
-
-![object](git-167.png)
-
-!SLIDE center
-
-![object](git-168.png)
-
-!SLIDE center
-
-![object](git-170.png)
-
-!SLIDE center
-
-![object](git-171.png)
-
-!SLIDE
-
-# Plus simplement...
-
-!SLIDE center
-
 ![object](object1.jpg)
 
 !SLIDE center
@@ -336,7 +227,7 @@
 
 # Rappel du 1er commit de Git
 
-	$ (e83c51) ~/src/git $ ls
+	$ ls
 	cache.h  cat-file.c  commit-tree.c
 	init-db.c  Makefile read-cache.c 
 	README  read-tree.c  show-diff.c 

@@ -8,11 +8,12 @@
 .yellow { color: yellow; }
 .grey { color: #888; }
 
-.question { color: #2B3856; }
+#.question { color: #2B3856; }
+.question { color: #292181; }
 
 .important {
     font-size: 60pt;
-    color: #f77;
+    color: #33c005;
 }
 
 .big {
@@ -155,11 +156,36 @@ img:first-child {
     height: auto;
 }
 
+*/
 .bullets ul li {
     text-align: left;
     list-style: disc;
 }
 .bullets ul {
     padding-left: 1em;
+}
+
+div.reversed {
+background-color: black;
+color: white;
+}
+
+.comment {
+  color: gray;
+}
+
+/*
+strong {
+  color: red;
+  font-weight: normal;
+}
+
+em {
+  color: green;
+  font-style: normal;
+}
+
+u {
+  color: blue;
 }
 */

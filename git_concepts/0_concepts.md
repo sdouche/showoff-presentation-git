@@ -25,11 +25,11 @@
 
 # 1er commit de Git
 
-	$ (e83c51) ~/src/git $ ls
-	cache.h  cat-file.c  commit-tree.c
-	init-db.c  Makefile read-cache.c 
-	README  read-tree.c  show-diff.c 
-	update-cache.c  write-tree.c
+    $ ls
+    cache.h  cat-file.c  commit-tree.c
+    init-db.c  Makefile read-cache.c 
+    README  read-tree.c  show-diff.c 
+    update-cache.c  write-tree.c
 
 !SLIDE
 
