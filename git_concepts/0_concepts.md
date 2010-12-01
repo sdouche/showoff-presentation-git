@@ -38,5 +38,5 @@
 
 !SLIDE
 
-# Plus vous **comprenez** le backend, mieux vous **maitrisez** le frontend
+# Plus vous **comprenez** le backend, mieux vous **maîtrisez** le frontend
 

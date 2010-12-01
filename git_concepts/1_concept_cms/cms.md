@@ -239,5 +239,5 @@
 
 * Base de données clé / valeur
 * 3 types (commit, tree, blob)
-* la clé est une signature SHA1
+* La clé est une signature SHA1
 * Orienté contenu (et non fichier)

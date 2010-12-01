@@ -43,4 +43,4 @@
 
 !SLIDE
 
-# Mais comme tout héros américain, j&#39;ai un fidèle **allier**
+# Mais comme tout héros américain, j&#39;ai un fidèle **allié**
