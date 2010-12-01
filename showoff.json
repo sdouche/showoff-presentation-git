@@ -1,0 +1,20 @@
+{
+  "name": "Atelier Git #1",
+  "description": "Atelier Git #1",
+  "sections": [
+    {"section":"title"}, 
+    {"section":"me"},
+    {"section":"gitfr"},
+    {"section":"introduction"},
+    {"section":"dvcs"},
+    {"section":"git_intro"},
+    {"section":"git_concepts"},
+    {"section":"git_usage"},
+    {"section":"git_collaboration"},
+    {"section":"git_workflow"},
+    {"section":"git_faq"},
+    {"section":"git_installation"},
+    {"section":"git_conclusion"},
+    {"section":"conclusion"}
+  ]
+}
