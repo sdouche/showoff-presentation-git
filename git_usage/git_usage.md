@@ -75,7 +75,7 @@
 
 !SLIDE
 
-# Des options intéressante à Diff
+# Des options intéressantes à Diff
 ## --patience
 ## -C
 ## -M

@@ -163,4 +163,4 @@
 
 !SLIDE
 
-# La **maitrise** de son workflow augmente **drastiquement** la qualité
+# La **maîtrise** de son workflow augmente **drastiquement** la qualité

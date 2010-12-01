@@ -39,7 +39,7 @@
 
 # recursive
 ## 2 heads (3 way merge)
-## plusieurs ancêtre
+## plusieurs ancêtres
 
 !SLIDE
 
@@ -63,7 +63,7 @@
 
 !SLIDE
 
-# Les objets sont ils effacés ?
+# Les objets sont-ils effacés ?
 
 !SLIDE
 

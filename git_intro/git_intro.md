@@ -23,7 +23,7 @@
 
 # Anecdotes (1)
 ## Auto hébergement
-* 5j pour que git
+* 5j pour git
 * 1 an pour SVN
 
 !SLIDE bullets
@@ -40,22 +40,22 @@
 !SLIDE
 
 # Git Survey 2010
-## Git est il facile à apprendre ?
-### <span class="red">Trés dur 2%</span>
+## Git est-il facile à apprendre ?
+### <span class="red">très dur 2%</span>
 ### <span class="red">Dur 17%</span>
 ### <span class="green">Raisonnable 53%</span>
 ### <span class="green">Facile 24%</span>
-### <span class="green">Trés facile 5%</span>
+### <span class="green">très facile 5%</span>
 
 !SLIDE
 
 # Git Survey 2010
-## Git est il facile à utiliser ?
-### <span class="red">Trés dur 1%</span>
+## Git est-il facile à utiliser ?
+### <span class="red">très dur 1%</span>
 ### <span class="red">Dur 8%</span>
 ### <span class="green">Raisonnable 42%</span>
 ### <span class="green">Facile 38%</span>
-### <span class="green">Trés facile 11%</span>
+### <span class="green">très facile 11%</span>
 
 !SLIDE
 
@@ -64,12 +64,12 @@
 ### <span class="red">Pas heureux 1%</span>
 ### <span class="red">Pas si heureux 4%</span>
 ### <span class="green">Heureux 22%</span>
-### <span class="green">Trés heureux 54%</span>
+### <span class="green">très heureux 54%</span>
 ### <span class="green">En extase 19%</span>
 
 !SLIDE commandline
 
-## Git est trés simple
+## Git est très simple
 
     $ grep GIT README
     GIT - the stupid content tracker
