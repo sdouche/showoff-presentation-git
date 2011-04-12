@@ -1,0 +1,27 @@
+* 1ere partie
+teasing 2eme partie !
+
+--------------------------------------------------
+* 2eme partie
+
+ tips
+toujour = intégration continue, deploiement continue
+expliquez l'utilité de git meme seul => exemple concret 
+nettoyage d'historique
+gitattribute
+filtering
+alias (shell, git)
+
+- commandes top moumoutes
+pickaxe
+git clean -fd
+notes
+
+- branche
+pull/ fetch
+branche = commit unique
+
+- workflow
+acl
+multiple dépot
+repos bare: problèmes

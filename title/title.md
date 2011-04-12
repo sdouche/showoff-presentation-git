@@ -1,11 +1,7 @@
-!SLIDE
+!SLIDE full-page
 
-# Atelier Git #2
-
-!SLIDE center
-
-![phone](phone.jpg)
+![](git-playboy.jpg)
 
 !SLIDE
 
-# Les magnifiques dessins sont de **@chacon**
+# Les dessins sont de **@chacon**

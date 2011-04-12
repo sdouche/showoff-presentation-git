@@ -1,20 +1,23 @@
 {
-  "name": "Atelier Git #2",
-  "description": "Atelier Git #2",
+  "name": "Soirée Git",
+  "description": "Soirée Git",
   "sections": [
     {"section":"title"}, 
     {"section":"me"},
     {"section":"gitfr"},
-    {"section":"introduction"},
-    {"section":"dvcs"},
-    {"section":"git_intro"},
-    {"section":"git_concepts"},
-    {"section":"git_usage"},
-    {"section":"git_collaboration"},
-    {"section":"git_workflow"},
-    {"section":"git_faq"},
-    {"section":"git_installation"},
-    {"section":"git_conclusion"},
-    {"section":"conclusion"}
+    {"section":"presentation"},
+    {"section":"intro"},
+    {"section":"concepts"},
+    {"section":"collaboration"},
+    {"section":"theory"},
+    {"section":"conclusion1"},
+    {"section":"starting"},
+    {"section":"usage"},
+    {"section":"workflow"},
+    {"section":"tools"},
+    {"section":"github"},
+    {"section":"securactive"},
+    {"section":"conclusion2"},
+    {"section":"final"}
   ]
 }

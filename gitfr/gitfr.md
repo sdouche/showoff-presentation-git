@@ -1,10 +1,14 @@
-!SLIDE
+!SLIDE subsection
 
-# <div class="big">#gitfr</span>
+# #gitfr
 
 !SLIDE
 
 # Projet international français pour la **promotion du bien** et la destruction du mal
+
+!SLIDE center
+
+![svn](svn-died.jpg)
 
 !SLIDE
 
@@ -25,22 +29,3 @@
 !SLIDE
 
 # http://blog.gitfr.net
-
-!SLIDE
-
-# Et ensuite ?
-### Git User Group ? ml ? Autres ?
-
-!SLIDE
-
-## Avant de démarrer
-## nous allons faire une incantation
-
-!SLIDE
-
-# Mort à SVN !
-### (valable aussi pour CVS / ClearCase / Perforce)
-
-!SLIDE
-
-# Mais comme tout héros américain, j&#39;ai un fidèle **allié**

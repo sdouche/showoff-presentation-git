@@ -2,9 +2,9 @@
 
 # &lt;me&gt;
 
-!SLIDE
+!SLIDE full-page
 
-# Sébastien Douche
+![me](me-time.jpg)
 
 !SLIDE center
 
@@ -40,11 +40,15 @@
 
 !SLIDE
 
-# DevOp
+# Devops
 
 !SLIDE
 
 # Release Manager
+
+!SLIDE center
+
+![diploma](git-diploma.jpg)
 
 !SLIDE center
 
@@ -53,38 +57,26 @@
 !SLIDE 
 
 # Coach
-## Agile, Lean, Schlouf
 
 !SLIDE
 
-# objectif personnel #
-## rendre une organisation efficace ##
-
-!SLIDE center
-
-![Parinux](parinux.jpg)
-
-!SLIDE center
-
-![AFPy](afpy.png)
-
-!SLIDE center
-
-![AgileFrance](agilefrance.png)
+# objectif
+## rendre une organisation efficace
 
 !SLIDE
 
 # Lifehacking
-## (Mindmap, GTD...)
+## (Mindmap, GTD, Pomodoro...)
+
+!SLIDE center
+
+![Parinux](parinux.jpg)
+![AFPy](afpy.png)
+![AgileFrance](agilefrance.png)
 
 !SLIDE center
 
 ![Beer](beer2.jpg)
-
-!SLIDE
-
-# Projet
-## Lean+Agile+...
 
 !SLIDE
 
