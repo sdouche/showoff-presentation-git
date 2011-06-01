@@ -7,7 +7,7 @@
 
 # Graphe acyclique
 # =
-# Graphe <span class="important">sans</span> boucle
+# Graphe sans **boucle**
 
 !SLIDE
 
@@ -37,7 +37,7 @@
 !SLIDE
 
 # Pour choisir l&#39;opération :
-## quel graphe <span class="important">je veux</span> ?
+## quel graphe **je veux** ?
 
 !SLIDE
 
@@ -126,7 +126,7 @@
 
 !SLIDE
 
-# La vision chronologique n&#39;a pas de sens. La seule vision correcte est <span class="important">topologique</span>.
+# La vision chronologique n&#39;a pas de sens. La seule vision correcte est **topologique**.
 
 !SLIDE bullets
 

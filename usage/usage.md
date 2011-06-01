@@ -12,7 +12,7 @@
 
 !SLIDE
 
-# La commande checkout permet de se déplacer
+# La commande checkout permet de se **déplacer**
 
 !SLIDE center
 
@@ -84,7 +84,7 @@
 
 !SLIDE
 
-# Je construis mon commit <span class="important">progressivement</span> :
+# Je construis mon commit **progressivement** :
 # l&#39;index
 
 !SLIDE center
@@ -231,103 +231,7 @@
 
 ![](git-398.png)
 
-!SLIDE
-
-# Comprendre le graphe
-
-!SLIDE center
-
-![](git-415.png)
-
-!SLIDE center
-
-![](git-416.png)
-
-!SLIDE center
-
-![](git-417.png)
-
-!SLIDE center
-
-![](git-419.png)
-
-!SLIDE center
-
-![](git-420.png)
-
-!SLIDE center
-
-![](git-421.png)
-
-!SLIDE center
-
-![](git-422.png)
-
-!SLIDE center
-
-![](git-429.png)
-
-!SLIDE center
-
-![](git-430.png)
-
-!SLIDE center
-
-![](git-431.png)
-
-!SLIDE center
-
-![](git-432.png)
-
-!SLIDE center
-
-![](git-438.png)
-
-!SLIDE center
-
-![](git-439.png)
-
-!SLIDE center
-
-![](git-440.png)
-
-!SLIDE center
-
-![](git-441.png)
-
-!SLIDE
-
-# A quoi cela sert ?
-
-!SLIDE center
-
-![](git-445.png)
-
-!SLIDE center
-
-![](git-446.png)
-
-!SLIDE center
-
-![](git-447.png)
-
-!SLIDE center
-
-![](git-448.png)
-
-!SLIDE center
-
-![](git-449.png)
-
-!SLIDE center
-
-![](git-450.png)
-
-!SLIDE center
-
-![](git-451.png)
-
-!SLIDE
+!SLIDE 
 
 # La commande reset
 
@@ -563,11 +467,11 @@
 
 !SLIDE
 
-# A quoi sert cette <span class="big">puissance</big> ?
+# A quoi sert cette **puissance** ?
 
 !SLIDE
 
-# A vous <span class="important">faciliter</span> la vie
+# A vous faciliter la vie
 
 !SLIDE bullets
 
@@ -579,7 +483,7 @@
 
 !SLIDE
 
-# Rendre mon historique <span class="important"> propre</span>
+# Rendre mon historique **propre**
 ## (commit unitaire, graphe lisible)
 
 !SLIDE 

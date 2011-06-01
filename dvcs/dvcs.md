@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Rappel sur les DVCS
+# DVCS
 
 !SLIDE
 
@@ -117,10 +117,6 @@
 * Soucis de « micro-merge » permanent
 * Corriger un bug dans un projet libre qui utilise SVN
 
-!SLIDE full-page
-
-![geekandpoke](geekandpoke-svn2.jpg)
-
 !SLIDE 
 
 # <div class="reversed">Bénéfices ?</span>
@@ -151,16 +147,16 @@
 
 !SLIDE 
 
-# Projet beaucoup plus stable
+# Projet beaucoup plus **stable**
 
-!SLIDE
+!SLIDE subsection
 
 # Conclusion
 
-!SLIDE center
+!SLIDE
 
-![prisoner](prisoner2.jpg)
+# La **maîtrise** de son workflow augmente drastiquement la **qualité**
 
 !SLIDE
 
-# La **maîtrise** de son workflow augmente **drastiquement** la qualité
+# Fin de la partie DVCS !

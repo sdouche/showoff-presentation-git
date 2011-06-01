@@ -4,7 +4,7 @@
 
 !SLIDE
 
-# Git est une base d&#39;objet <span class="important">synchronisable</span>
+# Git est une base d&#39;objet **synchronisable**
 
 !SLIDE
 
@@ -18,15 +18,15 @@
 
 !SLIDE
 
-# Je <span class="important">récupére</span> du code
+# Je récupére du code
 
 !SLIDE
 
-# J&#39;annonce que mes modifications sont <span class="important">disponibles</span>
+# J&#39;annonce que mes modifications sont disponible
 
 !SLIDE
 
-# Votre dépôt est <span class="big">personnel</span>
+# Votre dépôt est **personnel**
 
 !SLIDE center
 

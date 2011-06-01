@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Conclusion partie 2
+# Conclusion
 
 !SLIDE bullets
 
@@ -15,3 +15,7 @@
 
 # Lisez le manuel
 ## (git help <commande>)
+
+!SLIDE
+
+# Fin de la partie pratique !

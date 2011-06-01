@@ -56,11 +56,11 @@
 
 !SLIDE
 
-# Sans référence, il faudrait se <span class="big">souvenir</span> du SHA1 du head
+# Sans référence, il faudrait se **souvenir** du SHA1 du head
 
 !SLIDE
 
-# Git considère qu&#39;un head inaccessible par référence est à <span class="important">effacer</span>
+# Git considère qu&#39;un head inaccessible par référence est à **effacer**
 
 !SLIDE
 
@@ -96,7 +96,7 @@
 
 !SLIDE
 
-# Git gère les références avec <span class="big">namespace</span>
+# Git gère les références avec **namespace**
 
 !SLIDE
 

@@ -14,8 +14,7 @@
 # Configurer son shell 
 ### (complétion + indication)
 
-![shell](git-completion.png)
-![shell](git-prompt-sd.png)
+![](git-prompt.png)
 
 !SLIDE
 
@@ -24,7 +23,16 @@
 
 !SLIDE
 
-# Utilisez les alias !
+# Utilisez les alias
+
+        st    = status
+        s     = status -s
+        br    = branch -a
+        sb    = show-branch
+        unadd = rm -r --cached
+        wd    = diff --word-diff
+        ws    = show --word-diff
+
 
 !SLIDE commandline
 

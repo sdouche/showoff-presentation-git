@@ -16,11 +16,11 @@
 
 !SLIDE
 
-# Aider à comprendre et à utiliser <span class="important">Git</div>
+# **Aider** à comprendre et à utiliser Git
 
 !SLIDE
 
-## Le SCM est la <div class="big">pierre angulaire</span> du release management
+# Le SCM est la **pierre angulaire** du release management
 
 !SLIDE
 

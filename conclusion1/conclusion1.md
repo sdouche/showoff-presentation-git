@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Conclusion partie 1
+# Conclusion
 
 !SLIDE
 

@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Introduction
+# Introduction à Git
 
 !SLIDE
 
