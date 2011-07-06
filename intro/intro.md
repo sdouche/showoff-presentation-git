@@ -58,7 +58,7 @@
 # Git Survey 2010
 ## Etes vous heureux avec Git ?
 ### <span class="red">5%</span> (dur, très dur)
-### <span class="green">95%</span> (raisonnable, facile, très facile)
+### <span class="green">95%</span> (heureux, très heureux, en extase)
 
 !SLIDE full-page
 
