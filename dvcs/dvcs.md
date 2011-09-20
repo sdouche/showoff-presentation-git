@@ -9,10 +9,10 @@
 ### SCCS - 1972
 ### RCS - 1982
 ### CVS - 1986
-### Bitkeeper  2001
+### Bitkeeper - 2001
 ### <span class="blue">GNU Arch - 2001</span>
 ### <span class="blue">Darcs - 2002</span>
-### SVN        2002
+### SVN - 2002
 ### <span class="blue">Monotone - 2003</span>
 ### <span class="green">Git - 2005</span>
 ### <span class="green">Mercurial - 2005</span>
@@ -139,7 +139,7 @@
 
 !SLIDE 
 
-# Phase de démo avant push
+# Phase de démo avant intégration
 
 !SLIDE 
 
@@ -151,7 +151,37 @@
 
 !SLIDE subsection
 
+# Est ce utile seul ?
+
+!SLIDE bullets
+
+# Qui :
+* relit le code ?
+* met en prod ?
+* maintient ?
+* déboggue ?
+
+!SLIDE
+
+# Pas besoin de dépôt serveur
+
+!SLIDE subsection
+
 # Conclusion
+
+!SLIDE
+
+# DVCS veut avant tout dire **local**
+### (pas *déconnecté* ou *distant*)
+
+!SLIDE
+
+# local mais **identifié** dans le temps et l&#39;espace
+### (UUID)
+
+!SLIDE
+
+# Le développeur est un **producteur** de contenu
 
 !SLIDE
 

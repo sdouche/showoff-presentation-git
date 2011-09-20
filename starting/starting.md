@@ -93,3 +93,7 @@
 
 	$ git glog -n 1
 	* e83c516 - (HEAD) Initial revision...
+
+!SLIDE
+
+# Démo live avec tig !

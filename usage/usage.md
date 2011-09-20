@@ -493,3 +493,7 @@
 !SLIDE
 
 # ...révisionniste !
+
+!SLIDE
+
+# Différence entre auteur et commiter !

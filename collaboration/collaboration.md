@@ -88,3 +88,31 @@
 ## Différence entre dépôt «classique» et «bare» :
 * bare : pas de working dir
 * bare : .git à la fin (convention)
+
+!SLIDE
+
+# Par défaut, historique non modifiable
+
+!SLIDE
+
+# Tout est dans le **refspec** :
+
+    [remote "origin"]
+    fetch = +refs/heads/*:refs/remotes/origin/*
+    url = ssh://server/path/to/repo
+    [branch "master"]
+    remote = origin
+    merge = refs/heads/master
+
+!SLIDE
+
+# pull = fetch + merge
+
+!SLIDE commandline
+
+# Le refspec se donne en ligne de commande
+
+    $ git fetch origin +pu:tmp                                                                          
+    $ git push HEAD:master                                                                              
+    $ git push origin master:refs/heads/qa/experimental 
+    $ git push :toto

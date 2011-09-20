@@ -1,27 +1,26 @@
-* 1ere partie
-teasing 2eme partie !
+ * intro
+ - je n'ai rien à vous vendre, et je ne suis pas la pour former votre socité.
+   j'ai vu la lumière, je vous l'a transmets. C'est ensuite à vous de jouer.
 
---------------------------------------------------
-* 2eme partie
+- démo avec tig
 
- tips
-toujour = intégration continue, deploiement continue
-expliquez l'utilité de git meme seul => exemple concret 
-nettoyage d'historique
+*  tips
+- expliquez l'utilité de git meme seul => exemple concret 
 gitattribute
 filtering
 alias (shell, git)
+gitignore
 
 - commandes top moumoutes
 pickaxe
-git clean -fd
+git clean -dfx
 notes
-
-- branche
-pull/ fetch
-branche = commit unique
 
 - workflow
 acl
 multiple dépot
 repos bare: problèmes
+toujours commiter ! Le commit est pas cher
+car reflog (un par branche)
+car revert, test, étude de code, bisect, revue
+
