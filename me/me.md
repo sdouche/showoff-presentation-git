@@ -84,7 +84,7 @@
 
 !SLIDE 
 
-# sdouche@gmail.com
+# seb@gitfr.net
 
 !SLIDE center
 
