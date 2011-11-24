@@ -86,6 +86,10 @@
 
 # seb@gitfr.net
 
+!SLIDE
+
+# Je n'ai rien à vous vendre
+
 !SLIDE center
 
 # &lt;/me&gt;

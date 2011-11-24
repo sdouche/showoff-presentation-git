@@ -96,7 +96,7 @@
 
 !SLIDE
 
-# Git gère les références avec **namespace**
+# Git gère les références avec les **espaces de nom**
 
 !SLIDE
 

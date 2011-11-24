@@ -4,8 +4,12 @@
 
 !SLIDE
 
-# L&#39;avantage des DVCS
+# Pourquoi SVN est le mal
 ## (REX)
+
+!SLIDE
+
+# L&#39;avantage des DVCS
 
 !SLIDE
 # Expliquer les concepts

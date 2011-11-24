@@ -28,4 +28,4 @@
 
 !SLIDE
 
-# http://blog.gitfr.net
+# http://gitfr.net/blog

@@ -180,28 +180,6 @@
 
 !SLIDE
 
-# Des options intéressantes à «git diff»
-
-!SLIDE commandline
-
-# Meilleur algorithme
-
-	$ git diff --patience
-
-!SLIDE commandline
-
-# Détection des copies
-
-	$ git diff -C
-
-!SLIDE commandline
-
-# Détection des renommages
-
-	$ git diff -M
-
-!SLIDE
-
 # « J&#39;ai fait une grosse...»
 
 !SLIDE center

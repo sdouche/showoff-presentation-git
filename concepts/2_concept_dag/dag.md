@@ -1,7 +1,7 @@
 !SLIDE
 
 # Concept 2
-## La relation entre commits est un graphe acyclique (DAG)
+## La relation entre commits est un graphe acyclique orienté (DAG)
 
 !SLIDE
 
