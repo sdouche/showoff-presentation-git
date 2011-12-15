@@ -8,26 +8,6 @@
 
 !SLIDE center
 
-# Plusieurs méthodes de travail
-
-!SLIDE center
-
-![](workflow-sharedrepo.png)
-
-!SLIDE center
-
-![](workflow-temp.png)
-
-!SLIDE center
-
-![](workflow-integrator.png)
-
-!SLIDE center
-
-![](workflow-dictator.png)
-
-!SLIDE center
-
 ![gitflow](gitflow.png)
 
 !SLIDE center

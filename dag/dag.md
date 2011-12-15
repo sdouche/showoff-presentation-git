@@ -119,7 +119,3 @@
 !SLIDE
 
 # Plus **puissant** mais aussi plus **complexe**
-
-!SLIDE
-
-# Les outils graphiques, le futur de Git ?

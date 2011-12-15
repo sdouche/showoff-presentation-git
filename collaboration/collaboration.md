@@ -95,7 +95,7 @@
 
 !SLIDE
 
-# Tout est dans le **refspec**.
+# Tout est dans le **refspec**
 
 !SLIDE
 
@@ -104,31 +104,21 @@
     [remote "origin"]
     fetch = +refs/heads/*:refs/remotes/origin/*
     url = ssh://server/path/to/repo
+
     [branch "master"]
     remote = origin
     merge = refs/heads/master
 
 !SLIDE
 
-# Tout ce qui est sur origin prend un espace de nom origin:
-
-    [remote "origin"]
-    fetch = +refs/heads/*:refs/remotes/origin/*
-    url = ssh://server/path/to/repo
-
-!SLIDE
-
-# Exemples
+## Tout ce qui est sur origin prend un espace de nom origin.
 ### master -> origin/master
 ### test   -> origin/test
 
 !SLIDE
 
-# La branche "distante" master est synchronisée avec ma branche master :
-
-    [branch "master"]
-    remote = origin
-    merge = refs/heads/master
+## La branche distante master est liée avec ma branche master.
+### master <-> origin/master
 
 !SLIDE
 

@@ -38,33 +38,3 @@
 * Documents
 * Données
 * ...
-
-!SLIDE subsection
-
-# REX pro
-
-!SLIDE
-
-# Dépôts partagés
-## (~70 dépôts)
-
-!SLIDE center
-
-## Revue de code systématique
-
-![reviewboard](sa-reviewboard.png)
-
-!SLIDE
-
-# Déploiement continue
-
-!SLIDE bullets
-
-# Tout est dans des dépôts Git :
-
-* Sites Web
-* Fichiers de configuration
-* Présentations
-* Documents
-* Données
-* ...
