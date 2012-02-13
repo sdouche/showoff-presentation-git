@@ -1,6 +1,6 @@
-!SLIDE full-page
+!SLIDE
 
-![](git-playboy.jpg)
+# **Git**
 
 !SLIDE
 

@@ -1,6 +1,6 @@
 {
-  "name": "Soirée Git",
-  "description": "Soirée Git",
+  "name": "Git",
+  "description": "Git",
   "sections": [
     {"section":"title"}, 
     {"section":"me"},
@@ -18,7 +18,6 @@
     {"section":"usage"},
     {"section":"workflow"},
     {"section":"rex"},
-    {"section":"conclusion2"},
-    {"section":"final"}
+    {"section":"conclusion2"}
   ]
 }

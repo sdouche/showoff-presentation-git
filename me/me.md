@@ -8,14 +8,6 @@
 
 !SLIDE center
 
-![japon](japon.jpg)
-
-!SLIDE center
-
-![drhouse](drhouse.jpg)
-
-!SLIDE center
-
 ![moi](moi-chapeau.jpg)
 
 !SLIDE center
@@ -82,14 +74,6 @@
 !SLIDE
 
 # @sdouche
-
-!SLIDE 
-
-# seb@gitfr.net
-
-!SLIDE
-
-# Je n'ai rien à vous vendre
 
 !SLIDE center
 

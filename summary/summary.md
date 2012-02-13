@@ -1,10 +1,10 @@
 !SLIDE subsection
 
-# Soirée Git
+# Plan
 
 !SLIDE
 
-# Pourquoi SVN est le mal
+# Le soucis avec SVN
 ## (REX)
 
 !SLIDE
@@ -12,10 +12,10 @@
 # L&#39;avantage des DVCS
 
 !SLIDE
-# Expliquer les concepts
+# Expliquer les concepts Git
 ## (théorie)
 
 !SLIDE
 
-# Vous donner envie :)
+# Mise en perspective
 ## (pratique)

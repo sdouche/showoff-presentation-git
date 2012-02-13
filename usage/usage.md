@@ -190,10 +190,6 @@
 
 # « J&#39;ai fait une grosse...»
 
-!SLIDE center
-
-![superman](superman.jpg)
-
 !SLIDE commandline
 
 # le Reflog... loggue les références
@@ -244,7 +240,6 @@
 !SLIDE
 
 # La commande rebase
-### (la commande qui tue sa petite maman)
 
 !SLIDE
 
