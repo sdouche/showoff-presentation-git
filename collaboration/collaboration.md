@@ -28,50 +28,6 @@
 
 # Votre dépôt est **personnel**
 
-!SLIDE center
-
-![collaboration](git-374.png)
-
-!SLIDE center
-
-![collaboration](git-375.png)
-
-!SLIDE center
-
-![collaboration](git-376.png)
-
-!SLIDE center
-
-![collaboration](git-377.png)
-
-!SLIDE center
-
-![collaboration](git-378.png)
-
-!SLIDE center
-
-![collaboration](git-379.png)
-
-!SLIDE center
-
-![collaboration](git-380.png)
-
-!SLIDE center
-
-![collaboration](git-381.png)
-
-!SLIDE center
-
-![collaboration](git-382.png)
-
-!SLIDE center
-
-![collaboration](git-383.png)
-
-!SLIDE center
-
-![collaboration](git-384.png)
-
 !SLIDE
 
 # La méthode
