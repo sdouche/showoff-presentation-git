@@ -5,7 +5,7 @@
 
 !SLIDE
 
-# Graphe acyclique
+# Graphe acyclique orienté
 # =
 # Graphe sans **boucle**
 

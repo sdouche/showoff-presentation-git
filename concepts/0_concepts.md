@@ -7,7 +7,7 @@
 # Git est un
 
 * gestionnaire de contenu
-* stocké sous la forme d&#39;un graphe acyclique d&#39;objets
+* stocké sous la forme d&#39;un graphe acyclique orienté d&#39;objets
 * accessible avec des références
 
 !SLIDE 
