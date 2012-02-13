@@ -29,3 +29,8 @@
 !SLIDE
 
 # http://gitfr.net/blog
+
+!SLIDE
+
+# liste de diffusion
+## (http://googlegroups.com/gitfr)
