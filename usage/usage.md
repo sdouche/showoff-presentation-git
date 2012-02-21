@@ -397,31 +397,35 @@
 
 !SLIDE center
 
-![](git-648.png)
+![](git-rebase-i-1.png)
 
 !SLIDE center
 
-![](git-651.png)
+![](git-rebase-i-2.png)
 
 !SLIDE center
 
-![](git-652.png)
+![](git-rebase-i-3.png)
 
 !SLIDE center
 
-![](git-653.png)
+![](git-rebase-i-4.png)
 
 !SLIDE center
 
-![](git-654.png)
+![](git-rebase-i-5.png)
 
 !SLIDE center
 
-![](git-655.png)
+![](git-rebase-i-6.png)
 
 !SLIDE center
 
-![](git-656.png)
+![](git-rebase-i-7.png)
+
+!SLIDE center
+
+![](git-rebase-i-8.png)
 
 !SLIDE bullets
 
