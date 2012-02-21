@@ -26,3 +26,13 @@
 * octopus
 * ours
 * subtree
+
+!SLIDE bullets
+
+# Sous stratégies (recursive)
+* ours, theirs
+* patience
+* ignore-space-change, ignore-all-space, ignore-space-at-eol
+* renormalize, no-renormalize
+* rename-threshold=
+* subtree
