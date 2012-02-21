@@ -4,8 +4,16 @@
 
 !SLIDE
 
-## 145 commandes / 37 Porcelain
-### 13 régulières :
+## 145 commandes / 76 Porcelain
+### 37 principales
+### 14 manipulations
+### 16 interrogations
+### 9 intéractions
+
+
+!SLIDE
+
+## 13 régulières :
 ### init / merge / clone / remote / add
 ### fetch / commit / push / branch
 ### checkout / add / log / diff
