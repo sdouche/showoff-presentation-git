@@ -4,7 +4,6 @@
   "sections": [
     {"section":"title"}, 
     {"section":"me"},
-    {"section":"gitfr"},
     {"section":"summary"},
     {"section":"securactive"},
     {"section":"svn"},
