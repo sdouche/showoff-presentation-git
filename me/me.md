@@ -2,7 +2,7 @@
 
 # &lt;me&gt;
 
-!SLIDE full-page
+!SLIDE center
 
 ![me](me-time.jpg)
 
@@ -73,6 +73,11 @@
 ![Parinux](parinux.jpg)
 ![AFPy](afpy.png)
 ![AgileFrance](agilefrance.png)
+
+!SLIDE center 
+
+![](golang.png)
+![](dartlang.png)
 
 !SLIDE center
 
