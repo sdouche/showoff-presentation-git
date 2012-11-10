@@ -13,8 +13,8 @@
 
 !SLIDE
 
-## 13 régulières :
-### init / merge / clone / remote / add
+## 11 régulières :
+### init / merge / clone
 ### fetch / commit / push / branch
 ### checkout / add / log / diff
 
