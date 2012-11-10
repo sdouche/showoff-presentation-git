@@ -60,6 +60,6 @@
 ### <span class="red">5%</span> (dur, très dur)
 ### <span class="green">95%</span> (heureux, très heureux, en extase)
 
-!SLIDE full-page
+!SLIDE center
 
 ![obama](git-obama.jpg)
