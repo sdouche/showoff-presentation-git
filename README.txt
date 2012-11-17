@@ -1,6 +1,6 @@
 Ceci est une présentation ShowOff (http://github.com/schacon/showoff)
 
-Pour la visionner, il est nécessaire d'installer showoff et de lançer
+Pour la visionner, il est nécessaire d'installer showoff et de lancer
 dans le répertoire de la présentation :
 
   $ gem install showoff
