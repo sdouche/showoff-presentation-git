@@ -79,6 +79,10 @@
 ![](golang.png)
 ![](dartlang.png)
 
+!SLIDE center 
+
+![](beer2.jpg)
+
 !SLIDE
 
 # @sdouche

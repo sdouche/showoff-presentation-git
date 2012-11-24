@@ -5,6 +5,7 @@
     {"section":"title"}, 
     {"section":"me"},
     {"section":"summary"},
+    {"section":"gitfr"},
     {"section":"securactive"},
     {"section":"svn"},
     {"section":"dvcs"},
