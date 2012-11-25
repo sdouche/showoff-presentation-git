@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Soirée Git
+# Sommaire
 
 !SLIDE
 
@@ -12,10 +12,17 @@
 # L&#39;avantage des DVCS
 
 !SLIDE
-# Expliquer les concepts
-## (théorie)
+
+# Fonctionnement de Git
+
+!SLIDE subsection
+
+# Les ateliers demain
 
 !SLIDE
 
-# Vous donner envie :)
-## (pratique)
+# Débuter avec Git (3h)
+
+!SLIDE
+
+# Se perfectionner avec Git (3h)

@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# En conclusion
+# Une 2eme conclusion
 
 !SLIDE center
 

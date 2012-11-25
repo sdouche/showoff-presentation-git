@@ -4,22 +4,18 @@
   "sections": [
     {"section":"title"}, 
     {"section":"me"},
-    {"section":"summary"},
     {"section":"gitfr"},
+    {"section":"summary"},
     {"section":"securactive"},
     {"section":"svn"},
     {"section":"dvcs"},
     {"section":"intro"},
     {"section":"concepts"},
-    {"section":"collaboration"},
-    {"section":"theory"},
-    {"section":"conclusion1"},
     {"section":"starting"},
-    {"section":"dag"},
     {"section":"usage"},
     {"section":"workflow"},
     {"section":"rex"},
-    {"section":"conclusion2"},
+    {"section":"conclusion1"},
     {"section":"final"}
   ]
 }

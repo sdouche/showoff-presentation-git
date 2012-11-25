@@ -20,7 +20,3 @@
 ## 1ere évolution : mono-fichier
 ## 2eme évolution : multi-fichier
 ## 3eme évolution : DVCS
-
-!SLIDE
-
-# Fin de la partie théorique !

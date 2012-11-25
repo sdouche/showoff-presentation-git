@@ -20,11 +20,6 @@
 
 !SLIDE commandline
 
-## Complexe de loin, stupide de près
-
-    $ grep GIT README
-    GIT - the stupid content tracker
-
 !SLIDE bullets
 
 # Anecdote (1)
@@ -57,7 +52,7 @@
 
 # Git Survey 2010
 ## Etes vous heureux avec Git ?
-### <span class="red">5%</span> (dur, très dur)
+### <span class="red">5%</span> (malheureux, très malheureux)
 ### <span class="green">95%</span> (heureux, très heureux, en extase)
 
 !SLIDE center

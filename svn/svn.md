@@ -40,50 +40,6 @@
 
 # **Micro Merge** permanent 
 
-!SLIDE code
-
-$ hg log
-
-changeset:   14:810541a2f324
-user:        <span class="blue">développeur C</span>
-summary:     request fails on field rd_count -> need to be corrected in storage
-
-changeset:   13:23f18c61555d
-user:        <span class="blue">développeur C</span>
-summary:     completed request with more fields from database
-
-changeset:   12:a346955a7bea
-user:        <span class="red">développeur B</span>
-summary:     changed showed columns in tcp form
-
-changeset:   11:ed523c89c06d
-user:        <span class="blue">développeur C</span>
-summary:     typo
-
-changeset:   10:cab8f7d2a2d6
-user:        <span class="blue">développeur C</span>
-summary:     added column ip dest
-
-changeset:   9:57a90167ec43
-user:        <span class="green">développeur A</span>
-summary:     gui writes service instead of footprint
-
-changeset:   8:20b71148b377
-user:        <span class="green">développeur A</span>
-summary:     gui request service instead of footprint
-
-changeset:   7:08a85b1e5a5e
-user:        <span class="green">développeur A</span>
-summary:     typo
-
-changeset:   6:b7e8b8fd078d
-user:        <span class="red">développeur B</span>
-summary:     add kss rules
-
-changeset:   5:97b92ab5d366
-user:        <span class="green">développeur A</span>
-summary:     add zone dst in tcp.html page
-
 !SLIDE center
 
 ![](sprinter.jpg)

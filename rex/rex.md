@@ -2,27 +2,11 @@
 
 # REX perso
 
-!SLIDE
-
-# Je commence toujours pas un commit vide
-
 !SLIDE bullets
 
-# Tout petit commit :
-* le commit est pas cher !
-* bisect
-* même description si besoin
+* Tout petit commit
 * commit = sauvegarde
-* reflog
-
-!SLIDE
-
-# Beaucoup de branches (marqueur)
-
-!SLIDE
-
-# Stash rare, je préfère les branches
-### (git-reset est géniale)
+* Beaucoup de branches (marqueur)
 
 !SLIDE
 

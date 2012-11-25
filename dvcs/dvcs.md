@@ -186,7 +186,3 @@
 !SLIDE
 
 # La **maîtrise** de son workflow augmente drastiquement la **qualité**
-
-!SLIDE
-
-# Fin de la partie DVCS !

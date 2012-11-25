@@ -8,10 +8,6 @@
 
 !SLIDE center
 
-![japon](japon.jpg)
-
-!SLIDE center
-
 ![drhouse](drhouse.jpg)
 
 !SLIDE center
@@ -89,7 +85,7 @@
 
 !SLIDE 
 
-# seb@gitfr.net
+# sdouche@gmail.com
 
 !SLIDE
 

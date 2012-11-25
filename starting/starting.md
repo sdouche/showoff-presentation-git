@@ -1,61 +1,6 @@
 !SLIDE subsection
 
-# Avant de démarrer
-
-!SLIDE commandline
-
-# 1er réflexe
-
-	$ git config --global user.name "Sebastien Douche"
-	$ git config --global user.email "sdouche@gmail.com"
-
-!SLIDE center
-
-# Configurer son shell 
-### (complétion + indication)
-
-![](git-prompt.png)
-
-!SLIDE
-
-# gitignore
-### (https://github.com/github/gitignore)
-
-!SLIDE
-
-# Utilisez les alias
-
-        st    = status
-        s     = status -s
-        br    = branch -a
-        sb    = show-branch
-        unadd = rm -r --cached
-        wd    = diff --word-diff
-        ws    = show --word-diff
-
-
-!SLIDE commandline
-
-## Le contenu du .git
-
-	$ tree
-	|-- branches
-	|-- config
-	|-- description
-	|-- HEAD
-	|-- hooks
-	|-- info
-	|   `-- exclude
-	|-- objects
-	|   |-- info
-	|   `-- pack
-	`-- refs
-	    |-- heads
-	    `-- tags
-
-!SLIDE center
-
-![local](localfirst.jpg)
+# Accro à la vitesse
 
 !SLIDE center
 
