@@ -60,7 +60,7 @@
 
 !SLIDE
 
-# Git considère qu&#39;un head inaccessible par référence est à **effacer**
+# Git considère qu&#39;un commit inaccessible par référence est à **effacer**
 
 !SLIDE
 
